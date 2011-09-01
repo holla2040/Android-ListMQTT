@@ -1,0 +1,1 @@
+get wmqtt.jar from ia92.zip at http://mqtt.org
